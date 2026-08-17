@@ -1,2 +1,2 @@
-console.log(`This is version 1`);
-console.log(`hello lemi`);
+console.log(`This is version 2`);
+console.log(`hello betty`);
